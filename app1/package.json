@@ -9,7 +9,6 @@
     "test": "ng test"
   },
   "private": true,
-  "repository": "github:wkl3nk/test-multiple-npm",
   "dependencies": {
     "@angular/animations": "^17.0.0",
     "@angular/common": "^17.0.0",
